@@ -1,10 +1,13 @@
 ### Hi there 👋
 - 🌱 I’m currently learning:
+
      Python:
-      https://github.com/AndrejusAnto/tvwatch/blob/alpha/series.py?ts=4
-      https://github.com/AndrejusAnto/zintistyrimas
+     
+     https://github.com/AndrejusAnto/tvwatch/blob/alpha/series.py?ts=4
+     https://github.com/AndrejusAnto/zintistyrimas
      C:
-      https://github.com/AndrejusAnto/Cprograming
+     
+     https://github.com/AndrejusAnto/Cprograming
       
       
       ![Alt Text](https://github.com/AndrejusAnto/tvwatch/blob/alpha/demo.gif)
