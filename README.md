@@ -1,5 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
+      Python
+      https://github.com/AndrejusAnto/tvwatch/blob/alpha/series.py?ts=4
+      
+
 <!--
 **AndrejusAnto/AndrejusAnto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
