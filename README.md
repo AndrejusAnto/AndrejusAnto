@@ -6,6 +6,7 @@
      ![Alt Text](https://github.com/AndrejusAnto/tvwatch/blob/alpha/demo.gif)
      
      https://github.com/AndrejusAnto/zintistyrimas
+     ![Alt Text](https://github.com/AndrejusAnto/zintistyrimas/blob/master/demo.gif)
      
      C:
      
