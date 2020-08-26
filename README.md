@@ -1,6 +1,5 @@
-     CV - https://github.com/AndrejusAnto/CV
 - 🌱 I’m currently learning:
-
+     CV - https://github.com/AndrejusAnto/CV
      Python:
      
      https://github.com/AndrejusAnto/tvwatch/blob/alpha/series.py?ts=4
