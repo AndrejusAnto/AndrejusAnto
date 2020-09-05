@@ -31,9 +31,11 @@
      
      C:
      
+     https://github.com/AndrejusAnto/Cprograming
+     
      pagal https://lazyfoo.net/tutorials/SDL/04_key_presses/index.php pritaikytas texture tipo paveikslėlių pasikeitimas paspaudus atitinkamai w/UP, s/DOWN, a/LEFT, d/right.
      
-     https://github.com/AndrejusAnto/Cprograming
+     ![Alt Text](https://github.com/AndrejusAnto/Cprograming/blob/master/sdldemo.gif)
       
       
       
