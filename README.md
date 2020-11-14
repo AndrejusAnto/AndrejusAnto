@@ -23,8 +23,8 @@
      
      Python:
      
-     https://github.com/AndrejusAnto/tvwatch/blob/alpha/series.py?ts=4
-     ![Alt Text](https://github.com/AndrejusAnto/tvwatch/blob/alpha/demo.gif)
+     https://github.com/AndrejusAnto/tvwatch/blob/master/series.py?ts=4
+     ![Alt Text](https://github.com/AndrejusAnto/tvwatch/blob/master/demo.gif)
      
      https://github.com/AndrejusAnto/zintistyrimas
      ![Alt Text](https://github.com/AndrejusAnto/zintistyrimas/blob/master/demo.gif)
