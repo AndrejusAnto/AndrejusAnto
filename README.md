@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=AndrejusAnto&amp;show_icons=true" alt="GitHub Stats" width="440"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrejusAnto)](https://github.com/AndrejusAnto/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=AndrejusAnto&amp;show_icons=true" alt="GitHub Stats" width="500"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrejusAnto)](https://github.com/AndrejusAnto/github-readme-stats)
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="200" height="200" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="190" height="190" />
 
 CV - https://github.com/AndrejusAnto/CV
