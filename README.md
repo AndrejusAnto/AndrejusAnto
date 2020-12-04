@@ -1,4 +1,7 @@
+  CV - https://github.com/AndrejusAnto/CV
+  
 **Sugebėjimai:**
+  * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1)
   * Pramokęs programuoti su Python'u
   * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas, kaip pagrindinė operacinę sistemą naudoju Linux'us
   * Nebijau komandinės eilutės
@@ -16,10 +19,6 @@
   * Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH)
   * Video redagavimu (Blender)
   * Gimp'u redaguojant nuotraukas
-  * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1)
-  CV - https://github.com/AndrejusAnto/CV
-
-- 🌱 I’m currently learning:
      
      Python:
      
