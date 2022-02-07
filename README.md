@@ -44,8 +44,8 @@ CV - https://github.com/AndrejusAnto/CV
      
      https://github.com/AndrejusAnto/Cprograming
      
-     findword.c ieško žodžio txt faile ir jei randama, atspausdina eilutę/žodį, pritaikyti ieškant ir lietuviškus žodžius. Galima pasirnkti ar tiksliai atitiktų žodį
-     ar būtų kito žodio dalis. Galima arba
+     findword.c ieško žodžio txt faile ir jei randama, atspausdina eilutę/žodį, pritaikyta ieškant ir lietuviškus žodžius naudojant casefolding. Galima pasirnkti ar tiksliai 
+     atitiktų žodį ar būtų kito žodio dalis. Galima arba
      
      compile'iuotis ant windows 10 per command prompt: cl findword.c
      
