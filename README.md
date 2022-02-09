@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-Kaunas, bet galiu persikelti
+Kaunas, bet galiu persikelti, tel. 860127197, el.paštas andrejusantoninovas@gmail.com
 
 CV - https://github.com/AndrejusAnto/CV
   
