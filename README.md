@@ -8,29 +8,29 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-Kaunas, bet galiu persikelti, tel. 860127197, el.paštas andrejusantoninovas@gmail.com
+Kaunas, bet galiu persikelti, tel. 060127197, el.paštas: andrejusantoninovas@gmail.com
 
 CV - https://github.com/AndrejusAnto/CV
   
 **Sugebėjimai:**
-  * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1)
-  * Pramokęs programuoti su Python'u
-  * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas, kaip pagrindinė operacinę sistemą naudoju Linux'us
-  * Nebijau komandinės eilutės
+  * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1).
+  * Pramokęs programuoti su Python'u.
+  * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas, kaip pagrindinė operacinę sistemą naudoju Linux'us.
+  * Nebijau komandinės eilutės.
   * Moku dirbit su daugeliu office tipo programom ir pan.
   
   *Susipažinęs:*
   * Python bibliotekomis: pandas, numpy, bokeh.
-  * Bash/shell script'inimu https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh
-  * Virtualenv (conda) ir virtualizacijos programomis (Gnome Boxes, VirtualBox ir pan.)
-  * Webscraping'imu https://github.com/Orasporas/aliobutai/blob/master/aliobutai.py
-  * Docker https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh
-  * Machine Learning (Scikit-learn, Keras (TensorFlow))
-  * Sql duomenų basėmis (https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb)
+  * Bash/shell script'inimu https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh.
+  * Virtualenv (conda) ir virtualizacijos programomis (Gnome Boxes, VirtualBox ir pan.).
+  * Webscraping'imu https://github.com/Orasporas/aliobutai/blob/master/aliobutai.py.
+  * Docker https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh.
+  * Machine Learning (Scikit-learn, Keras (TensorFlow)).
+  * Sql duomenų basėmis (https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb).
   * Su kompiuterinėmis dalimis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
-  * Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH)
-  * Video redagavimu (Blender)
-  * Gimp'u redaguojant nuotraukas
+  * Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH).
+  * Video redagavimu (Blender).
+  * Gimp'u redaguojant nuotraukas.
      
      Python:
      
