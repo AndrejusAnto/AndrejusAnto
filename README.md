@@ -10,7 +10,7 @@
 
 Kaunas, bet galiu persikelti, tel. 060127197, el.paštas: andrejusantoninovas@gmail.com
 
-CV - https://github.com/AndrejusAnto/CV
+CV - [https://github.com/AndrejusAnto/CV](https://andrejusanto.github.io)
   
 **Sugebėjimai:**
   * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1).
