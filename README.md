@@ -8,67 +8,27 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-Kaunas, bet galiu persikelti, tel. 060127197, el.paštas: andrejusantoninovas@gmail.com, 
+[CV](https://andrejusanto.github.io), Kaunas, bet galiu persikelti, tel. 060127197, el.paštas: andrejusantoninovas@gmail.com
 
-[CV](https://andrejusanto.github.io)
-  
-**Sugebėjimai:**
-  * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1).
-  * Pramokęs programuoti su Python'u.
-  * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas, kaip pagrindinė operacinę sistemą naudoju Linux'us.
-  * Nebijau komandinės eilutės.
-  * Moku dirbit su daugeliu office tipo programom ir pan.
-  
-  *Susipažinęs:*
-  * Python bibliotekomis: pandas, numpy, bokeh.
-  * Bash/shell script'inimu https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh.
-  * Virtualenv (conda) ir virtualizacijos programomis (Gnome Boxes, VirtualBox ir pan.).
-  * Webscraping'imu https://github.com/Orasporas/aliobutai/blob/master/aliobutai.py.
-  * Docker https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh.
-  * Machine Learning (Scikit-learn, Keras (TensorFlow)).
-  * Sql duomenų basėmis (https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb).
-  * Su kompiuterinėmis dalimis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
-  * Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH).
-  * Video redagavimu (Blender).
-  * Gimp'u redaguojant nuotraukas.
-     
-     Python:
-     
-     https://github.com/AndrejusAnto/tvwatch/blob/master/series.py?ts=4
-     ![Alt Text](https://github.com/AndrejusAnto/tvwatch/blob/master/demo.gif)
-     
-     https://github.com/AndrejusAnto/zintistyrimas
-     ![Alt Text](https://github.com/AndrejusAnto/zintistyrimas/blob/master/demo.gif)
-     
-     C:
-     
-     https://github.com/AndrejusAnto/Cprograming
-     
-     findword.c ieško žodžio txt faile ir jei randama, atspausdina eilutę/žodį, pritaikyta ieškant ir lietuviškus žodžius naudojant casefolding. Galima pasirnkti ar tiksliai 
-     atitiktų žodį ar būtų kito žodio dalis. Galima arba
-     
-     compile'iuotis ant windows 10 per command prompt: cl findword.c
-     
-     arba per tą patį command prompt pasileisti findword.exe.
-     
-     Parsisiųsti lengviau galima per čia https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FAndrejusAnto%2FCprograming%2Ftree%2Fmaster%2Ffindword
-     
-     ![Alt Text](https://github.com/AndrejusAnto/Cprograming/blob/master/newfindword.gif)
-      
-      
-      
+Python:
 
-<!--
-**AndrejusAnto/AndrejusAnto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/AndrejusAnto/tvwatch/blob/master/series.py?ts=4
+![Alt Text](https://github.com/AndrejusAnto/tvwatch/blob/master/demo.gif)
 
-Here are some ideas to get you started:
+https://github.com/AndrejusAnto/zintistyrimas
+![Alt Text](https://github.com/AndrejusAnto/zintistyrimas/blob/master/demo.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C:
+
+https://github.com/AndrejusAnto/Cprograming
+
+findword.c ieško žodžio txt faile ir jei randama, atspausdina eilutę/žodį, pritaikyta ieškant ir lietuviškus žodžius naudojant casefolding. Galima pasirnkti ar tiksliai 
+atitiktų žodį ar būtų kito žodio dalis. Galima arba
+
+compile'iuotis ant windows 10 per command prompt: cl findword.c
+
+arba per tą patį command prompt pasileisti findword.exe.
+
+Parsisiųsti lengviau galima per čia https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FAndrejusAnto%2FCprograming%2Ftree%2Fmaster%2Ffindword
+
+![Alt Text](https://github.com/AndrejusAnto/Cprograming/blob/master/newfindword.gif)
