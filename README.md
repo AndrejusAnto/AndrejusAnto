@@ -10,7 +10,7 @@
 
 [CV](https://andrejusanto.github.io), Kaunas, bet galiu persikelti, tel. 060127197, el.paštas: andrejusantoninovas@gmail.com
 
-Python:
+# Python:
 
 https://github.com/AndrejusAnto/tvwatch/blob/master/series.py?ts=4
 ![Alt Text](https://github.com/AndrejusAnto/tvwatch/blob/master/demo.gif)
@@ -18,7 +18,7 @@ https://github.com/AndrejusAnto/tvwatch/blob/master/series.py?ts=4
 https://github.com/AndrejusAnto/zintistyrimas
 ![Alt Text](https://github.com/AndrejusAnto/zintistyrimas/blob/master/demo.gif)
 
-C:
+# C:
 
 https://github.com/AndrejusAnto/Cprograming
 
